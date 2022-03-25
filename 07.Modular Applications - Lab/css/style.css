@@ -1,0 +1,21 @@
+.movie-list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.movie-card {
+    width: 200px;
+    margin: 30px;
+}
+
+.login-page {
+    width: 600px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 15px;
+}
